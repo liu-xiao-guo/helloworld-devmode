@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd /
+echo "list all of the content in the root:"
+ls
+
+cd home
+ls
